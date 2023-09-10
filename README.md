@@ -2,7 +2,7 @@
 
 **Name:** Axcelers (aka. Joshua/Josh)<br>
 **Age:** 16 (August 7th)<br>
-**Title:** Software Engineer
+**Title:** Advanced Developer
 
 # 📢 **My** Website
 
