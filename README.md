@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 About Me
+
+**Name:** Axcelers (aka. Joshua/Josh)
+**Age:** 16 (August 7th)
+**Title:** Software Engineer
+
 
 <!--
 **Axcelers/Axcelers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
