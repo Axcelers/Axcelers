@@ -1,8 +1,8 @@
 # 👋 About Me
 
-### **Name:** Axcelers (aka. Joshua/Josh)
-### **Age:** 16 (August 7th)
-### **Title:** Software Engineer
+**Name:** Axcelers (aka. Joshua/Josh)<br>
+**Age:** 16 (August 7th)<br>
+**Title:** Software Engineer
 
 
 <!--
