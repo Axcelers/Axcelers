@@ -1,12 +1,13 @@
 # 👋 About Me
 
-**Name:** Axcelers (aka. Joshua/Josh)<br>
-**Age:** 16 (August 7th)<br>
+**Name:** Axcelers aka. Josh
+**Age:** 16<br>
+**Birthday:** August 7th (Leo)<br>
 **Title:** Advanced Developer
 
 # 📢 **My** Website
 
-To see a full list of my past projects and current occupations on Roblox, check out my portfolio:<br>
+To see a full list of my past projects and Roblox occupation history, check out my portfolio:<br>
 https://axcelers.com/
 
 # 📋 Tech Stack
