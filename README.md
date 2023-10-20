@@ -1,6 +1,6 @@
 # 👋 About Me
 
-**Name:** Axcelers aka. Josh
+**Name:** Axcelers aka. Josh<br>
 **Age:** 16<br>
 **Birthday:** August 7th (Leo)<br>
 **Title:** Advanced Developer
