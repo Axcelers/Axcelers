@@ -4,7 +4,7 @@
 **Birthday:** August 7th (Leo)<br>
 **Title:** Advanced Developer
 
-# 📢 **My** Jobs
+# 💼 **My** Jobs
 
 - Retail Customer Service Representative (Part-Time Job)
 - SolarTech Group (Founder and Managing Director - Roblox)
