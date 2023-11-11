@@ -1,9 +1,15 @@
 # 👋 About Me
 
-**Name:** Axcelers aka. Josh<br>
-**Age:** 16<br>
+**Name:** Josh<br>
 **Birthday:** August 7th (Leo)<br>
 **Title:** Advanced Developer
+
+# 📢 **My** Jobs
+
+- Retail Customer Service Representative (Part-Time Job)
+- SolarTech Group (Founder and Managing Director - Roblox)
+- Development Board (South Pacific Airways - Roblox)
+- Racing Supervisor (Go-Karting Xtreme - Roblox)
 
 # 📢 **My** Website
 
