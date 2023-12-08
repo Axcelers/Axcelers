@@ -6,14 +6,15 @@
 
 # 💼 **My** Jobs
 
-- Retail Customer Service Representative (Part-Time Job)
+- Retail Customer Service Representative (Part-Time - Actual Job)
 - SolarTech Group (Founder and Managing Director - Roblox)
-- Development Board (South Pacific Airways - Roblox)
-- Racing Supervisor (Go-Karting Xtreme - Roblox)
+- South Pacific Airways (Development Board - Roblox)
+- Go-Karting Xtreme (Track Marshal - Roblox)
+- Go-Karting Xtreme (Bot Developer - Roblox)
 
-# 📢 **My** Website
+# 📢 **My** Website (Under Construction)
 
-To see a full list of my past projects and Roblox occupation history, check out my portfolio:<br>
+To see a full list of my experiences in many fields, check out my portfolio:<br>
 https://axcelers.com/
 
 # 📋 Tech Stack
