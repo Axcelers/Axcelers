@@ -1,8 +1,11 @@
-# 👋 About Me
+# 👋 Hello! I'm Joshua!
 
-**Name:** Josh<br>
-**Birthday:** August 7th (Leo)<br>
-**Title:** Advanced Developer
+Hello there! I'm Joshua, but you can call me Josh. I'm a professional in scripting. I enjoy developing new projects and have been a Roblox developer since 2015.
+
+# 📢 **My** Portfolio (Under Development)
+
+You may view my developer portfolio using the link below. Check it out today!:<br>
+https://axcelers.com/
 
 # 💼 **My** Jobs
 
@@ -11,11 +14,6 @@
 - South Pacific Airways (Development Board - Roblox)
 - Go-Karting Xtreme (Track Marshal - Roblox)
 - Go-Karting Xtreme (Bot Developer - Roblox)
-
-# 📢 **My** Website (Under Construction)
-
-To see a full list of my experiences in many fields, check out my portfolio:<br>
-https://axcelers.com/
 
 # 📋 Tech Stack
 
