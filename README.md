@@ -3,18 +3,10 @@
 
 Hello there! I'm Joshua, but you can call me Josh. I'm a professional in scripting. I enjoy developing new projects and have been a Roblox developer since 2015.
 
-# 📢 **My** Portfolio (Under Development)
+# 📢 **My** Portfolio
 
-You may view my developer portfolio using the link below. Check it out today!:<br>
-https://axcelers.com/
-
-# 💼 **My** Jobs
-
-- Retail Customer Service Representative (Part-Time - Actual Job)
-- SolarTech Group (Founder and Managing Director - Roblox)
-- South Pacific Airways (Development Board - Roblox)
-- Go-Karting Xtreme (Track Marshal - Roblox)
-- Go-Karting Xtreme (Bot Developer - Roblox)
+You may view my developer portfolio using the link below:
+https://sites.google.com/view/axcelers
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) -->
 
