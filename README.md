@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Axcelers!
+# 👋 Hello there!
 
 <!-- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white) -->
 
